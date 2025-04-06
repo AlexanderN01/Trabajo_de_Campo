@@ -15,6 +15,8 @@ public class Trabajo_de_Campo {
      */
     public static void main(String[] args) {
         System.out.print("Hello");
+        System.out.print("Este es un mensaje nuevo");
+        
     }
     
 }
